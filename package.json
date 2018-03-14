@@ -1,0 +1,22 @@
+{
+  "name": "ramen_journal_loader",
+  "version": "1.0.0",
+  "description": "Data loader for ramen journal",
+  "main": "loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OohNahGii/ramen_journal_loader.git"
+  },
+  "author": "Grant Ramil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OohNahGii/ramen_journal_loader/issues"
+  },
+  "homepage": "https://github.com/OohNahGii/ramen_journal_loader#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
